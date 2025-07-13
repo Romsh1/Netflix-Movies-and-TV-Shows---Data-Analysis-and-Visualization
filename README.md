@@ -43,13 +43,19 @@ The goal of this analysis is to uncover insights and patterns in the Netflix dat
 ---
 
 ## 📈 Highlighted Visualizations
+Here are some visual insights from the Netflix dataset:
 
-- Line plot showing content added per year
-- Bar charts of top countries, genres, and ratings
-- Genre word breakdown using bar plots
-- Metadata completeness bar plot
-- Director popularity visualized with horizontal bars
+### 📅 Content Added Over Time
+Shows how Netflix's content library expanded year by year.
+![Content Over Time](/movies_added_years.png)
 
+### 🎭 Genre Popularity
+Comedy and Drama dominate the catalog.
+![Genre Distribution](/most_common_genre.png)
+
+### 🎬 Top 10 Directors
+Most featured directors based on title count.
+![Top Directors](/top_10_directors.png)
 ---
 
 ## ✅ Key Insights
